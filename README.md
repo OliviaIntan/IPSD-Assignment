@@ -1,7 +1,7 @@
 ## Repository praktikum IPSD
 
 <pre>
-Nama : Agung Widiyanto
-NIM : 2211110001
-Kelas : S1SD03-A
+Nama : Olivia Intan Puspita
+NIM : 2311110006
+Kelas : S1SD-04-01
 </pre>
